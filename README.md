@@ -1,6 +1,5 @@
 # Wordpress Boostrap customizer
 **Description**
-
 This wordpress theme contains bootstrap 3.3.6 with so far three control examples:
 - Image control
 - Input control
@@ -8,7 +7,6 @@ This wordpress theme contains bootstrap 3.3.6 with so far three control examples
 There is example of usage in the startpage
 
 **Purpose**
-
 Make a slim skeleton theme with admin customizer control for theme developers to begin work on.
 
 **Goal**
@@ -25,8 +23,9 @@ WordPress 4.4.1
 - Removed Emoj Icons , gives cleaner html code
 
 ## Installation
-  cd wp-content/themes/
-  git clone https://github.com/rafel/wp-bootstrap-customizer
-
+    cd wp-content/themes/
+    git clone https://github.com/rafel/wp-bootstrap-customizer
+  
+  
 ## Screenshot
 ![alt Screenshot](https://github.com/rafel/wp-bootstrap-customizer/blob/master/screenshoot.png)
