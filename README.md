@@ -1,13 +1,17 @@
 # Wordpress Boostrap customizer
 **Description**
+
 This wordpress theme contains bootstrap 3.3.6 with so far three control examples:
 - Image control
 - Input control
 - Textarea control
 There is example of usage in the startpage
 
+
 **Purpose**
+
 Make a slim skeleton theme with admin customizer control for theme developers to begin work on.
+
 
 **Goal**
 - Add more controls with example
