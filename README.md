@@ -17,14 +17,14 @@ Make a slim skeleton theme with admin customizer control for theme developers to
 - Add more controls with example
 - Showcase more bootstrap elements
 - Keep the project lightweight
-- Keep root with as files as possible
+- Keep root with few files as possible
 
 ## Tested on
 WordPress 4.4.1
 
 ## Features
 - Few files, easy to start working with
-- Removed Emoj Icons , gives cleaner html code
+- Removed Emoj Icons , gives cleaner html dom tree
 
 ## Installation
     cd wp-content/themes/
